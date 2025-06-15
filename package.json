@@ -1,0 +1,45 @@
+{
+  "name": "pomolectron",
+  "version": "1.2.0",
+  "description": "A pomodoro app for your menubar/tray.",
+  "main": "index.js",
+  "productName": "Pomolectron",
+  "scripts": {
+    "start": "electron ./app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitmerchant1990/pomolectron",
+    "docs": "https://github.com/amitmerchant1990/pomolectron/blob/master/README.md"
+  },
+  "keywords": [
+    "electron",
+    "pomodoro",
+    "productivity",
+    "menubar",
+    "taskbar",
+    "tray",
+    "timer",
+    "html",
+    "desktop"
+  ],
+  "author": "Amit Merchant <bullredeyes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amitmerchant1990/pomolectron/issues"
+  },
+  "homepage": "https://github.com/amitmerchant1990/pomolectron#readme",
+  "_npmUser": {
+    "name": "amit_merchant",
+    "email": "bullredeyes@gmail.com"
+  },
+  "devDependencies": {
+    "devtron": "^1.1.2",
+    "electron-packager": "^7.0.3",
+    "electron": "latest",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "menubar": "latest"
+  }
+}
