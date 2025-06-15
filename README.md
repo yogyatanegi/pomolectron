@@ -85,13 +85,6 @@ You can also get the [Windows binaries](http://www.softpedia.com/get/Others/Misc
 
 You can try an online version of this: [Pomodoro Timer](https://notepad.js.org/pomodoro-timer/)
 
-## News
-Pomolectron was [trending](https://news.ycombinator.com/item?id=13878898) on the Hacker News and on [GitHub](https://raw.githubusercontent.com/amitmerchant1990/test/master/trending.JPG) during the day of its launch.
-
-## You may also like..
-
-- [Markdownify](https://github.com/amitmerchant1990/electron-markdownify) - Markdown Editor desktop app
-
 ## License
 
 MIT
